@@ -60,7 +60,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://github.com/JaggiEdits03/LazyPrincessByJaggi?organization=JaggiEdits03&organization=JaggiEdits03">
+<a href="https://github.com/JaggiEdits03/LazyPrincessByJaggi">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
