@@ -26,11 +26,11 @@ async def start(client, message):
                 InlineKeyboardButton('🔔 Updates 🤖', url='https://t.me/LazyDeveloper')
             ],
             [
-                InlineKeyboardButton('🙆🏻 Help 🦾', url=f"https://t.me/{temp.U_NAME}?start=help"),
-            ],[
-            InlineKeyboardButton('Watch Tutorial', url='https://youtube.com/LazyDeveloper')
+                InlineKeyboardButton('🙆🏻 Help 🦾', url=f"https://t.me/Jaggii1"),
             ],
-            [
+
+
+[
                 InlineKeyboardButton(text=DOWNLOAD_TEXT_NAME,url=DOWNLOAD_TEXT_URL)
             ]
             ]
